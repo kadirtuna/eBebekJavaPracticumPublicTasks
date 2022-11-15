@@ -1,13 +1,14 @@
 /**
- * Title: 
+ * Title: ManavKasap Application
  * Author: Kadir Tuna
  * Assignment: eBebek Java & QA & SAP Spartacus Practicum
- * Description: 
- * Contacts; 
+ * Description: This project is to calculate the total price of a fruit shopping in greengrocer.
+ *
+ * Contacts;
  * Instagram: kadir.tuna
  * Github : github.com/kadirtuna
  * LinkedIn : linkedin.com/in/kadirtuna20
- * 
+ *
  * by;
  * @author Kadir Tuna
  */

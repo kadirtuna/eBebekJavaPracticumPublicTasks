@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task1_BMICalculatorMain {
+public class BMICalculatorMain {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Lütfen boyunuzu (metre cinsinde) giriniz : ");

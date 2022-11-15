@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd0a84f-3693-4b4d-a589-1b9c1f52791f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Task1_BMICalculator/src/Task1_BMICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task1_BMICalculator/src/Task1_BMICalculatorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task1_VucutKitleEndeksiHesaplama.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2_ManavKasap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task1_BMICalculator/src/Task1_BMICalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task1_BMICalculator/src/Task1_BMICalculatorMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_ManavKasap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_ManavKasap.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668515208418</updated>
-      <workItem from="1668515210357" duration="317000" />
+      <workItem from="1668515210357" duration="1046000" />
     </task>
     <servers />
   </component>

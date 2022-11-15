@@ -14,7 +14,7 @@
 
 import java.util.Scanner;
 
-public class Task1_BMICalculator {
+public class BMICalculator {
 
     public static float BMICalculate(float height, float weight){
         return weight / (height * height);
